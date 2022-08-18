@@ -1,6 +1,6 @@
 #### Shopping Cart
 
-### Technologies
+### Technologies Used
 
 ##### 1. Typescript
 
